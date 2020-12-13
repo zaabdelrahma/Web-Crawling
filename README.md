@@ -5,9 +5,7 @@ In this tool I used PHP
 # Get started
 
 *(foldername) is php project 
-
 *php file name is onServer.php (For uploading images on the server)
-
 *php file name is inPics.php which downloads images from a website given by the user and store it folder named pics
 
 * This assignment will get all the images that are attached with an <img tag (https://www.ubereats.com/ca/vancouver/food-delivery/hon-sushi/XAAB10yNTL6wz9qbi2gXfA)
